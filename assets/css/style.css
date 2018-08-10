@@ -245,6 +245,11 @@ body {
       width: 100%;
       height: auto;
     }
+
+    .container {
+      margin-left: auto;
+      max-width: 90%;
+    }
   }
 
   @media (max-width: 768px) {
